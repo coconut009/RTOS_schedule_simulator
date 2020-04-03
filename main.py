@@ -16,8 +16,7 @@ if(selection == 1):
 elif(selection == 2):
     EDF_scheduler()
 elif(selection==3):
-    print("NA u can u up")
-    #RM_scheduler()
+    CE_scheduler()
 elif(selection==4):
     RM_scheduler()
 
