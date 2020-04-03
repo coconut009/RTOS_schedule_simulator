@@ -3,7 +3,6 @@ from rm import RM_scheduler
 from edf import EDF_scheduler
 from edd import EDD_scheduler
 
-	
 
 print("Enter '1' to select Earliest Due Date scheduling algorithm ")   
 print("Enter '2' to select Earliest Deadline First scheduling algorithm ")   
