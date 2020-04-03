@@ -3,13 +3,14 @@
 4 types of scheduler simulator:
 1) Earliest Due Date (EDD)
 2) Earliest Deadline First (EDF)
-3) Cyclic Executive(CE) !! Didn't start yet
+3) Cyclic Executive(CE) 
 4) Rate Monotonic (RM) Scheduling
 
 Environment requirement:
 python 3.5 or plus
 prettytable
 numpy
+functools 
 
 1. run the main.py
 2. select the scheduler 

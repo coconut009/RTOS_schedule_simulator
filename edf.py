@@ -1,3 +1,5 @@
+from prettytable import PrettyTable
+
 def generatetable(input_list,input_number,offset):
   
   flag=0
@@ -66,7 +68,7 @@ def generatetable(input_list,input_number,offset):
   print(output_list1) 
   print(output_list2)
 #-------------------------------------------------------------------------------  
-from prettytable import PrettyTable
+
 
 def EDF_scheduler():
   print("---------------------------------------------------")
