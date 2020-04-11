@@ -15,6 +15,8 @@ functools
 1. run the main.py
 2. select the scheduler 
 3. enter the total number tasks need to run  
-3. follow the guide line to enter the tasks parameters: e.g. task period and worst-case computation times
+3. follow the guide line to enter the tasks parameters, use "space" to seperate the parameters
+e.g. task period and worst-case computation times, 
+e.g. 3 4		
 4. wait for the results
 5. :)
